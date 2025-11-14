@@ -1,7 +1,7 @@
 # V2ray搭建教程，一键搭建教程，手机搭建vpn 服务器
 
 ## 手机搭建vpn 服务器，手机搭建v2ray节点
-1、VPS服务器：https://www.vultr.com/?ref=8753714
+1、VPS服务器：https://www.vultr.com/
 
 2、搭建工具下载：[Termius](https://termius.com/download/)
 
